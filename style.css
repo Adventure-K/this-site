@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  font-size: 44px;
+  font-family: Book Antiqua, Sylfaen, serif;
+}
+
+.header {  /* the dot designates a class instead of an element */
+  background-color: black;
+  margin-left: 5px;
+  padding-left: 10px;
+}
+
+.footer {
+  background-color: gray;
+}
+
+img {
+  width: 60%;
+}
+
+p, li {
+  color: blue;
+}
